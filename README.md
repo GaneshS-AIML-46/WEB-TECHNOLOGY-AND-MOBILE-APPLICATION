@@ -41,5 +41,3 @@
 
 ---
 
-*Lab submission - Web & Mobile Development*
-*[Your Name] | [Institution/University]*
