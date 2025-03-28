@@ -1,99 +1,45 @@
 # WEB-TECHNOLOGY-AND-MOBILE-APPLICATION
-# Web & Mobile Development Experiments
+# Web & Mobile Development Lab Experiments
 
-This repository contains 12 practical experiments covering HTML, CSS, JavaScript, Java Servlets, and Android development.
+## Experiments
 
-## 📌 Table of Contents
-1. [HTML & CSS Experiments](#-html--css-experiments)
-2. [JavaScript Form Validation](#-javascript-form-validation)
-3. [Servlet Programs](#-servlet-programs)
-4. [Android Applications](#-android-applications)
-5. [Getting Started](#-getting-started)
-6. [Technologies Used](#-technologies-used)
+### Web Technologies
+1. **Interactive Map** - HTML/CSS with clickable hotspots  
+2. **CSS Methods** - Inline/embedded/external comparison  
+3. **Form Validation** - JavaScript form validation  
+4. **Hello World Servlet** - Basic Servlet implementation  
+5. **Form Processor** - Servlet handling form data  
+6. **HTTP Methods** - GET vs POST demonstration  
+7. **Session Login** - HttpSession tracking system  
+8. **Cookie Preferences** - User settings storage  
+9. **Library System** - Form validation with database  
 
-## 🌐 HTML & CSS Experiments
+### Android Apps
+10. **Calculator** - Basic arithmetic operations  
+11. **Text Styler** - Font/color customization  
+12. **Email Sender** - Mobile email composition  
 
-### 1. Interactive Map with Hotspots
-- Embedded map with clickable hotspots and information panels
-- **Files**: `map-with-hotspots.html`
+## Setup
 
-### 2. CSS Implementation Types
-- Web page demonstrating inline, embedded, and external CSS
-- **Files**: 
-  - `inline-css.html`
-  - `embedded-css.html`
-  - `external-css.html` 
-  - `styles.css`
+### Web Projects
+- **Requirements**:
+  - Java JDK 8+
+  - Apache Tomcat 9+
+  - Modern web browser
 
-## 🛠️ JavaScript Form Validation
-- Registration form with validation for:
-  - Name (min 6 alphabets)
-  - Password (min 6 characters)
-  - Email (standard format)
-  - Mobile (10 digits)
-  - Non-empty last name & address
-- **Files**: `form-validation.html`
+### Android Projects
+- **Requirements**:
+  - Android Studio
+  - Android SDK (API 26+)
+  - Emulator or physical device
 
-## ☕ Servlet Programs
+## Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: Java Servlets
+- **Mobile**: Android (Java)
+- **Database**: MySQL (Experiment 9)
 
-### 3. Hello World Servlet
-- Basic Servlet that prints "Hello, World!"
-- **Files**: `HelloWorldServlet.java`
+---
 
-### 4. Form Processing Servlet
-- Accepts name and age → Displays back
-- **Files**: 
-  - `user-form.html`
-  - `FormProcessorServlet.java`
-
-### 5. GET vs POST Demonstration
-- Shows difference between HTTP methods
-- **Files**: 
-  - `method-form.html`
-  - `MethodDemoServlet.java`
-
-### 6. Session Tracking
-- Login system with session management
-- **Files**: 
-  - `login.html`
-  - `LoginServlet.java`
-  - `dashboard.jsp`
-
-### 7. Cookie Preferences
-- Stores/retrieves user preferences
-- **Files**: 
-  - `preferences-form.html`
-  - `PreferenceServlet.java`
-
-### 8. Library Management System
-- Form validations + Database interaction
-- **Files**: 
-  - `library-form.html`
-  - `LibraryServlet.java`
-  - `book-management.jsp`
-
-## 📱 Android Applications
-
-### 9. Basic Calculator App
-- Performs +, -, ×, ÷ operations
-- **Files**: `CalculatorApp/`
-
-### 10. UI Customization App
-- Changes text style + shows Toast
-- **Files**: `TextStylerApp/`
-
-### 11. SD Card Storage
-- Writes data to external storage
-- **Files**: `FileStorageApp/`
-
-### 12. Email Sender App
-- Sends emails via Android
-- **Files**: `EmailSenderApp/`
-
-## 🚀 Getting Started
-
-### For Web Experiments:
-1. Ensure Java JDK and Tomcat installed
-2. Clone repository:
-   ```bash
-   git clone https://github.com/yourusername/web-mobile-experiments.git
+*Lab submission - Web & Mobile Development*
+*[Your Name] | [Institution/University]*
